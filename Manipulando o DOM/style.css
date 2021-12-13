@@ -1,0 +1,12 @@
+#lampada{
+    width: 200px;
+    height: 200px;
+}
+
+.acesa{
+    background-color: #ffee00;
+}
+
+.apagada{
+    background-color: #313131;
+}
